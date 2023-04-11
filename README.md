@@ -8,7 +8,7 @@ La implementación de Redux en una aplicación puede parecer complicada al princ
 
 En resumen, Redux es una librería de JavaScript poderosa y popular que se utiliza para manejar el estado de las aplicaciones de una manera predecible y escalable.
 
-[https://documents.lucid.app/documents/d59fd600-5cfc-46f6-8403-e49234c6245e/pages/0_0?a=570&x=595&y=124&w=979&h=788&store=1&accept=image%2F*&auth=LCA%2017aced6f3c8bca950e46c3dc360fbda06c205709c3b729d8380751e538b28e40-ts%3D1681166725](https://documents.lucid.app/documents/d59fd600-5cfc-46f6-8403-e49234c6245e/pages/0_0?a=570&x=595&y=124&w=979&h=788&store=1&accept=image%2F*&auth=LCA%2017aced6f3c8bca950e46c3dc360fbda06c205709c3b729d8380751e538b28e40-ts%3D1681166725)
+![hola](https://documents.lucid.app/documents/d59fd600-5cfc-46f6-8403-e49234c6245e/pages/0_0?a=570&x=595&y=124&w=979&h=788&store=1&accept=image%2F*&auth=LCA%2017aced6f3c8bca950e46c3dc360fbda06c205709c3b729d8380751e538b28e40-ts%3D1681166725)
 
 [Redux - A predictable state container for JavaScript apps. | Redux](https://redux.js.org/)
 
